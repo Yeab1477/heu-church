@@ -1,0 +1,231 @@
+.hero1{
+    text-align: center;
+    padding: 60px 0px 0px 0px;
+    font-size: medium;
+    color: rgba(255, 99, 71, 0.623);
+    font-weight: bolder;
+
+  }
+  .hero2{
+    text-align: center;
+   color: black;
+   font-weight: bolder;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 50px;
+   padding-top: 20px ;
+} 
+.bg-image {
+    background-image: url('image/10e5ca4e24d34e2304c305b0d4e96ffb\ \(1\).jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color: white; 
+    text-align: center;
+}
+.hero-btn{
+    text-decoration: none;
+    color: white;
+    border: 2px solid rgba(255, 99, 71, 0.623);
+    padding: 12px 34px;
+    font-size:13px;
+    background: transparent;
+    position :relative;
+    cursor: pointer;
+    padding-top: 13px;
+    font-weight: bolder;
+    }
+    .hero-btn:hover{
+      color: white;
+      }    
+    .image-container {
+        max-width: 100%;
+        height: auto;
+      }
+      .text-container {
+        padding-left: 45px; /* Add some padding between image and text */
+      }    
+
+
+
+
+
+
+      .fa-quote-left, .fa-quote-right {
+        color: #f0d5d5cc;
+        font-size: 24px;
+        padding-left: 125px;
+    }
+
+
+
+
+
+
+
+
+
+
+      .carousel-item img {
+        border-radius: 50%;
+        width: 120px;
+        height: 120px;
+        object-fit: cover;
+        margin: 0 auto;
+    }
+    .carousel-caption {
+        text-align: center;
+    }
+    .carousel-inner{
+      background-color: antiquewhite;
+     padding: 100px;
+    }
+    #testimony{
+      text-align: center;
+      color: rgba(255, 99, 71, 0.623);
+      font-weight: bolder;
+    }
+    #testimony2{
+      text-align: center;
+      font-weight: 450;
+    }
+    .end p, h1{
+      text-align: center;
+    }
+    .end p{
+      color: rgba(255, 99, 71, 0.623);
+    }
+    .end h1{
+      font-weight: bolder;
+      font-size: 50px;
+    }
+
+
+
+
+
+
+    .social-icons {
+        text-align: center;
+        margin: 20px 0;
+      }
+      .social-icons a {
+        text-decoration: none;
+        color: #333;
+        font-size: 24px;
+        margin: 0 15px;
+      }
+      .social-icons a:hover {
+        color: #007bff; /* Change color on hover */
+      }
+      .qa{
+        text-align: center;
+      }
+  
+  
+      /* .all{
+        background-image: url(image/bg_2024-09-16_02-13-25.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      } */
+
+
+
+
+
+      .footer{
+        background-color: rgb(26, 44, 56);
+        color: white;
+      }
+      
+      
+      
+      
+      
+      .social-icons {
+        font-size: 24px;
+        display: flex;
+        gap: 10px;
+      }
+      .social-icons a {
+        color: black; /* Set icon color */
+        text-decoration: none;
+      }
+      .social-icons a:hover {
+        color: rgb(0, 0, 0); /* Color on hover */
+      }
+      .copyright{
+        text-align: center;
+        padding-bottom: 10px;
+        color: whitesmoke;
+      }
+
+
+
+
+
+
+
+      .quote-icon {
+        font-size: 3rem; /* Adjust size as needed */
+        color: white; /* Change color as needed */
+      }
+      .quote-container {
+        text-align: center;
+        margin-top: 20px;
+      }
+      .quote-text {
+        font-size: 1.25rem;
+        margin-top: 10px;
+      }
+
+
+
+      .end p, h1{
+        text-align: center;
+      }
+      .end p{
+        color: orange;
+        font-weight: bolder;
+      }
+      .end h1{
+        font-weight: bolder;
+        font-size: 50px;
+      }
+
+
+
+
+
+
+
+
+      .responsive-text {
+        font-size: 2rem; /* Default size */
+    }
+    @media (max-width: 768px) {
+        .responsive-text {
+            font-size: 1.5rem; /* Smaller size for tablets */
+        }
+    }
+    @media (max-width: 576px) {
+        .responsive-text {
+            font-size: 1rem; /* Even smaller for phones */
+        }
+    }     
+
+
+
+
+    .container text-center{
+      background-color: antiquewhite;
+    }
+
+    
+    .hidden {
+      display: none;
+  }
